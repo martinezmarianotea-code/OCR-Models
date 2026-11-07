@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secretos y resultados locales
+.env
+output/
+resultados/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+*.log
